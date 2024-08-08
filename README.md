@@ -1,1 +1,1 @@
-# Python-Project
+My Python project is Student Database Management System. In this we can create, update, search and delete the student details from the database. And we can also see all the details in other frame of the user=interface.
